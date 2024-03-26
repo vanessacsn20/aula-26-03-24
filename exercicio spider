@@ -1,0 +1,57 @@
+numero=10
+nome= "João"
+booleno= True
+
+a = True
+b = False
+resultado1 = a and b
+resultado2 = a or b
+resultado3 = not a
+
+a = 10 
+b = 5
+
+# a ordem de preced^ncia na linguagem de python é not, and e or
+# para modificar a ordem de procedencia usa-se os parenteses.
+
+
+aula dia 25/03/24
+
+def soma(a, b):
+    
+    
+
+
+
+def soma (a,b):
+    return a + b
+
+
+def quadrado (a):
+    return a**2
+
+def hipotenusa (cat1, cat2):
+    return soma(quadrado(cat1), quadrado(cat2)) ** (1/2)
+
+h =  hipotenusa (3,5)
+
+def simples (cor):
+    if cor == 'azul':
+        return 'escolheu certo'
+    
+def medio (cor):
+    if cor == 'azul':
+        return 'escolheu certo'
+    else:
+        return 'tente outra cor'
+    
+
+numeros = 
+
+
+        
+        
+    
+
+
+   
